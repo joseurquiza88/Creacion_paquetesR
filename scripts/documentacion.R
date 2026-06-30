@@ -1,4 +1,4 @@
-# 06 - Documentación del paquete
+#  Documentación del paquete
 #
 # Objetivo:
 # Generar documentación automática con roxygen2
@@ -7,10 +7,10 @@
 # y alli se abre una plantilla con rmarkdown y es alli donde
 # se van a ir modificando y agregando info para las distintas funciones
 
-# Generar documentación del paquete
+# Generar documentacion del paquete
 devtools::document()
 
-# Consultar ayuda de la función
+# Consultar ayuda de la función, se debe abrir una ventana con toda la info que se fue colocando
 ?what_time()
 
 # Nota:
