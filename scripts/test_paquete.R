@@ -1,8 +1,6 @@
 
-# ============================================================
 # Testing del paquete con testthat
-# ============================================================
-
+# Pagina de referencia: https://testthat.r-lib.org/
 # Configura la infraestructura para realizar tests automáticos.
 # También agrega la información necesaria al archivo DESCRIPTION.
 # Se crea la carpeta `tests/` con los archivos que utiliza
