@@ -46,3 +46,6 @@ El flujo de trabajo está organizado en scripts independientes:
 - https://r-pkgs.org/
 - https://usethis.r-lib.org/
 - https://roxygen2.r-lib.org/
+- 
+#### Ejemplo de creación de paquete 
+| `https://github.com/joseurquiza88/MiniPaquete` |
