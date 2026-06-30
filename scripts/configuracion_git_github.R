@@ -1,4 +1,4 @@
-# 01 - Configuración de Git y GitHub
+# 01 - Configuracion de Git y GitHub
 #
 # Objetivo: ----
 # Autenticarse en GitHub y verificar conexión con Git local
