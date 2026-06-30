@@ -1,4 +1,4 @@
-# 07 - Manejo de dependencias
+# Manejo de dependencias
 #
 # Objetivo:
 # Registrar paquetes externos usados dentro del paquete
@@ -10,4 +10,5 @@
 usethis::use_package("rlang")
 
 
-# Al hacer esto actualiza automáticamente DESCRIPTION
+# Al hacer esto actualiza automáticamente el archivo DESCRIPTION
+# Tambien se puede determinar la version minima de esa libreria
