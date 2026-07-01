@@ -68,4 +68,4 @@ usethis::create_project() # Aca tengo qe poner el path "pryecto/xxx"
 usethis::use_git() # Aca tendo que poner que si quiero hacer los commits
 
 
---- Quiero recuperar un commit importante
+- Quiero recuperar un commit importante
