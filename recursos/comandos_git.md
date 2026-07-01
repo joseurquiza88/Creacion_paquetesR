@@ -53,7 +53,9 @@ git log -1
 
 - Commit en rama equivocada
 cambiamos de rama y hacemos un commit
+git cherry-pick rama_prueba
 
+git reset HEAD~ --hard
 
 - Crear repositorio pero con gh tanto en rStudio como VSC
 gh repo create TestGH --public --source=. --remote=origin --push
@@ -65,3 +67,5 @@ Crear repo desde Rstudio con la libria usethis
 usethis::create_project() # Aca tengo qe poner el path "pryecto/xxx"
 usethis::use_git() # Aca tendo que poner que si quiero hacer los commits
 
+
+--- Quiero recuperar un commit importante
