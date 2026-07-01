@@ -38,7 +38,7 @@ git commit --allow-empty
 
 git remote set-url origin ...
 
-- Arreglar un commit
+- Arreglar un commit prueba
 git commit --amend --no-edit
 
 - Crear repositorio pero con gh tanto en rStudio como VSC
