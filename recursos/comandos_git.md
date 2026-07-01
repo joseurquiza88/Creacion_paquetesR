@@ -31,9 +31,15 @@ git switch main
 - Para ver todas las ramas disponibles en el proyecto
 branch
 
+- Para que se abra un visor para escribir el commit
+git commit --allow-empty
+
 - Cambiar remoto
 
 git remote set-url origin ...
+
+- Arreglar un commit
+git commit --amend --no-edit
 
 - Crear repositorio pero con gh tanto en rStudio como VSC
 gh repo create TestGH --public --source=. --remote=origin --push
