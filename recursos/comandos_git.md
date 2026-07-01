@@ -40,6 +40,10 @@ git remote set-url origin ..
 - Arreglar un commit prueba
 git commit --amend --no-edit
 
+- Ver los commits anteriores
+git log
+
+- Ejemplo de commit !!!
 - Crear repositorio pero con gh tanto en rStudio como VSC
 gh repo create TestGH --public --source=. --remote=origin --push
 Eliminar repo desde VSC y Rstudio terminal es igual
