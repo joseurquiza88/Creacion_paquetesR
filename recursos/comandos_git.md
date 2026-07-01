@@ -43,7 +43,18 @@ git commit --amend --no-edit
 - Ver los commits anteriores
 git log
 
+- Ver el ultimo commit
+git log -1
+
 - Ejemplo de commit !!!
+- git restore recursos/comandos_git.md --source=751f10a3395ad64b7b0028f405384b9b2ec79eb6
+
+
+
+- Commit en rama equivocada
+cambiamos de rama y hacemos un commit
+
+
 - Crear repositorio pero con gh tanto en rStudio como VSC
 gh repo create TestGH --public --source=. --remote=origin --push
 Eliminar repo desde VSC y Rstudio terminal es igual
