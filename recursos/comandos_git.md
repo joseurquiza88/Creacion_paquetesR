@@ -36,7 +36,7 @@ git commit --allow-empty
 
 - Cambiar remoto
 
-git remote set-url origin ...
+git remote set-url origin ..
 
 - Arreglar un commit prueba
 git commit --amend --no-edit
