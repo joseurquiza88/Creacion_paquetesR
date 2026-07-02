@@ -43,6 +43,10 @@ git commit --amend --no-edit
 - Ver los commits anteriores
 git log
 
+- sirve para ver quién modificó cada línea de un archivo, en qué commit y cuándo
+git blame ./recursos/comandos_git.md
+
+
 - Ejemplo de commit !!!
 - Crear repositorio pero con gh tanto en rStudio como VSC
 gh repo create TestGH --public --source=. --remote=origin --push
@@ -54,3 +58,4 @@ Crear repo desde Rstudio con la libria usethis
 usethis::create_project() # Aca tengo qe poner el path "pryecto/xxx"
 usethis::use_git() # Aca tendo que poner que si quiero hacer los commits
 
+con q se sale de la terminal
