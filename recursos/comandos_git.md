@@ -67,11 +67,16 @@ Crear repo desde Rstudio con la libria usethis
 usethis::create_project() # Aca tengo qe poner el path "pryecto/xxx"
 usethis::use_git() # Aca tendo que poner que si quiero hacer los commits
 
-
+- historial de commits para evaluar los bugs
+git bisect
 - Quiero cambiar el ultimo commit
 * Veo el id del commit y lo copio: git log -1
 *git revert ID
 * Se abre una terminal VIM Y tengo que color car la letra I (de insert)
 * Despues escribir :wq :w = guardar (write)
 :q = salir (quit)
-* Git terminará de crear el commit.
+* Git terminará de crear el commit
+
+
+- Git patch
+- git reset --mixed idCommit
