@@ -79,4 +79,7 @@ git bisect
 
 
 - Git patch
-- git reset --mixed idCommit
+- git reset --mixed 
+
+-Mezcalar y combinar los commits
+git rebase  -i(interactico)
