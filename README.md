@@ -49,3 +49,8 @@ El flujo de trabajo está organizado en scripts independientes:
 - 
 #### Ejemplo de creación de paquete 
 | `https://github.com/joseurquiza88/MiniPaquete` |
+
+##  Créditos
+
+Esta guía fue construida a partir del taller de creación de paquetes en R brindado por @rOpenSci 💙 y adaptada como material de consulta para futuros desarrollos.
+
